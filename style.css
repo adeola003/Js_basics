@@ -1,0 +1,29 @@
+#navbar{
+    position: relative;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#body{
+    background-color:aquamarine;
+    font-size: large;
+
+}
+h2{
+    float: left;
+}
+h2 a{
+    display: block;
+    padding: 8px;
+    background-color: blueviolet;
+}
+#head{
+    position: relative;
+    font-size: large;
+    background-color: aquamarine;
+}
+h3{
+    color: darkcyan;
+}
